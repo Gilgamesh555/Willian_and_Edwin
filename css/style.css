@@ -7,3 +7,15 @@ img{
 #image {
     margin: auto;
 }
+#img-div{
+    text-align: center;
+}
+a{
+    text-align: center;
+    display:block;
+}
+figcaption{
+    font-size: 20px;
+    color:cadetblue;
+    margin-top: 20px;
+}
