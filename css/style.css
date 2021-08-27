@@ -6,6 +6,7 @@ img{
 
 #image {
     margin: auto;
+    box-shadow: 11px 10px 5px 0px cadetblue;
 }
 #img-div{
     text-align: center;
@@ -18,4 +19,14 @@ figcaption{
     font-size: 20px;
     color:cadetblue;
     margin-top: 20px;
+}
+
+#title {
+    display: block;
+    text-align: center;
+}
+
+.list-a {
+    display: block;
+    text-align: center;
 }
